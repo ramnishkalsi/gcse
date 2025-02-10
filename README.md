@@ -25,7 +25,6 @@ Provides study guides, literature notes, and practice papers for GCSE English.
 ### Arts
 Contains notes and resources for various art periods and events.
 
-
 ### Economics
 Includes study materials and exercises for GCSE Economics.
 
