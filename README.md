@@ -7,7 +7,9 @@ This project contains resources and materials for GCSE studies. It includes vari
 - [Mathematics](./Mathematics)
 - [Science](./Science)
 - [English](./English)
-- [History](./History)Economics
+- [Arts](./Arts)
+- [History](./History)
+- [Economics](./Economics)
 
 ## Usage
 
@@ -23,6 +25,9 @@ Includes resources for Biology, Chemistry, and Physics.
 Provides study guides, literature notes, and practice papers for GCSE English.
 
 ### Arts
+Contains notes and resources for various art periods and events.
+
+### History
 Contains notes and resources for various art periods and events.
 
 ### Economics
