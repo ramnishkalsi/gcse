@@ -34,3 +34,8 @@ Contains notes and resources for various art periods and events.
 Includes study materials and exercises for GCSE Economics.
 
 Feel free to explore and use the resources to enhance your learning experience.
+
+
+### Links
+
+https://expert-tuition.co.uk/past-papers/a-level-edexcel-economics-unit-2-questions-by-topic/
